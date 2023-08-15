@@ -16,6 +16,10 @@ __pycache__/
 # C extensions
 *.so
 
+infra-ansible/
+keyword-contents/
+search-terms/
+
 # Distribution / packaging
 .Python
 build/
